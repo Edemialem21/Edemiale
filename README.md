@@ -1,6 +1,6 @@
 # Who am i???
 <h1 align="center">Hi 👋, I'm Edemialem Tamiru</h1>
-<h3 align="center">A passionate Full stack Software Engineer from AA, Ethiopa.</h3>
+<h3 align="center">A passionate Full stack Software Engineer from Ethiopa, AA.</h3>
 
 - 🌱 I’m currently learning **Alx Full stack Softare Engineering...Shell bash, Git, C languege. HTML,CSS,JAVA SCRIPT,REACT, NODEJS.**
 
